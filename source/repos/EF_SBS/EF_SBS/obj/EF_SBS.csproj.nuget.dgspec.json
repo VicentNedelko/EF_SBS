@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Slava\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj": {}
+    "C:\\Users\\user\\source\\repos\\EF_SBS\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Slava\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj": {
+    "C:\\Users\\user\\source\\repos\\EF_SBS\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Slava\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\EF_SBS\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj",
         "projectName": "EF_SBS",
-        "projectPath": "C:\\Users\\Slava\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj",
-        "packagesPath": "C:\\Users\\Slava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Slava\\source\\repos\\EF_SBS\\EF_SBS\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\EF_SBS\\source\\repos\\EF_SBS\\EF_SBS\\EF_SBS.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\EF_SBS\\source\\repos\\EF_SBS\\EF_SBS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Slava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
